@@ -1,5 +1,6 @@
 body{
     background: linear-gradient(to right, #dfcbb0, #daa35b);
+    min-width: 480px;
 }
 .login-form{
     display: flex;
