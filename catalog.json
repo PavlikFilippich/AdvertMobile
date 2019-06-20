@@ -4,7 +4,7 @@
             "title": "Сити",
             "category": "Диван",
             "price": 200,
-            "img":"/img/11.png",
+            "img":"img/11.png",
             "details": {
                 "type":"Спальный",
                 "create":"Plus",
@@ -24,7 +24,7 @@
             "title": "Кисс",
             "category": "Диван",
             "price": 250,
-            "img":"/img/21.png",
+            "img":"img/21.png",
             "details": {
                 "type":"Спальный",
                 "create":"Plus",
@@ -44,7 +44,7 @@
             "title": "Браво",
             "category": "Диван",
             "price": 2000,
-            "img":"/img/31.png",
+            "img":"img/31.png",
             "details": {
                 "type":"Спальный",
                 "create":"Plus",
@@ -64,7 +64,7 @@
             "title": "Магнум",
             "category": "Диван",
             "price": 1200,
-            "img":"/img/41.png",
+            "img":"img/41.png",
             "details": {
                 "type":"Спальный",
                 "create":"Plus",
@@ -84,7 +84,7 @@
             "title": "Сокол",
             "category": "Диван",
             "price": 2800,
-            "img":"/img/11.png",
+            "img":"img/11.png",
             "details": {
                 "type":"Спальный",
                 "create":"Plus",
@@ -104,7 +104,7 @@
             "title": "Браво-2",
             "category": "Стулец",
             "price": 300,
-            "img":"/img/51.png",
+            "img":"img/51.png",
             "details": {
                 "type":"Спальный",
                 "create":"Plus",
@@ -124,7 +124,7 @@
             "title": "Альфа",
             "category": "кресло",
             "price": 900,
-            "img":"/img/61.png",
+            "img":"img/61.png",
             "details": {
                 "type":"Спальный",
                 "create":"Plus",
@@ -144,7 +144,7 @@
             "title": "Омега",
             "category": "Кресло",
             "price": 2070,
-            "img":"/img/71.png",
+            "img":"img/71.png",
             "details": {
                 "type":"Спальный",
                 "create":"Plus",
@@ -164,7 +164,7 @@
             "title": "Апельсин",
             "category": "Кресло",
             "price": 3200,
-            "img":"/img/81.png",
+            "img":"img/81.png",
             "details": {
                 "type":"Спальный",
                 "create":"Plus",
@@ -184,7 +184,7 @@
             "title": "Кентавр",
             "category": "Стол",
             "price": 700,
-            "img":"/img/91.png",
+            "img":"img/91.png",
             "details": {
                 "type":"Спальный",
                 "create":"Plus",
