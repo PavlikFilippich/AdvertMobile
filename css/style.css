@@ -84,9 +84,9 @@ h1{
         width:14rem ;
 
     }
-    /* h1{
-       font-size:  2.5rem;
-    } */
+    h1{
+       font-size:  1em;
+    }
     .login-form form input#login{
         font-size: 1.5rem;
     }
