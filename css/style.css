@@ -18,7 +18,7 @@ body{
 }
 h1{
     color: black;
-    font-size: 3.5rem;
+    /* font-size: 3.5rem; */
     text-align: center;
     font-weight: 10rem;
     font-style: italic;
@@ -57,9 +57,9 @@ h1{
         font-size:  2rem;
         
     }
-    h1{
+    /* h1{
         font-size:  3rem;
-    }
+    } */
     
 }
 @media all and (max-width: 575.98px) and (min-width: 480px){
@@ -84,9 +84,9 @@ h1{
         width:14rem ;
 
     }
-    h1{
+    /* h1{
        font-size:  2.5rem;
-    }
+    } */
     .login-form form input#login{
         font-size: 1.5rem;
     }
