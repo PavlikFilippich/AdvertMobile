@@ -1,0 +1,204 @@
+{
+    "catalog": [
+        {
+            "title": "Сити",
+            "category": "Диван",
+            "price": 200,
+            "img":"/img/11.png",
+            "details": {
+                "type":"Спальный",
+                "create":"Plus",
+                "country":"USA",
+                "material":"throw",
+                "length":"150",
+                "width":"120",
+                "images":{
+                    "one":"img/11.png",
+                    "two":"img/12.png",
+                    "three":"img/13.png",
+                    "four":"img/14.png"
+                }
+            }
+        },
+        {
+            "title": "Кисс",
+            "category": "Диван",
+            "price": 250,
+            "img":"/img/21.png",
+            "details": {
+                "type":"Спальный",
+                "create":"Plus",
+                "country":"Украина",
+                "material":"Хлопок",
+                "length":"150",
+                "width":"120",
+                "images":{
+                    "one":"img/21.png",
+                    "two":"img/22.png",
+                    "three":"img/23.png",
+                    "four":"img/24.png"
+                }
+            }
+        },
+        {
+            "title": "Браво",
+            "category": "Диван",
+            "price": 2000,
+            "img":"/img/31.png",
+            "details": {
+                "type":"Спальный",
+                "create":"Plus",
+                "country":"Россия",
+                "material":"throw",
+                "length":"150",
+                "width":"120",
+                "images":{
+                    "one":"img/31.png",
+                    "two":"img/32.png",
+                    "three":"img/33.png",
+                    "four":"img/34.png"
+                }
+            }
+        },
+        {
+            "title": "Магнум",
+            "category": "Диван",
+            "price": 1200,
+            "img":"/img/41.png",
+            "details": {
+                "type":"Спальный",
+                "create":"Plus",
+                "country":"USA",
+                "material":"throw",
+                "length":"150",
+                "width":"120",
+                "images":{
+                    "one":"img/41.png",
+                    "two":"img/42.png",
+                    "three":"img/43.png",
+                    "four":"img/44.png"
+                }
+            }
+        },
+        {
+            "title": "Сокол",
+            "category": "Диван",
+            "price": 2800,
+            "img":"/img/11.png",
+            "details": {
+                "type":"Спальный",
+                "create":"Plus",
+                "country":"Россия",
+                "material":"throw",
+                "length":"150",
+                "width":"120",
+                "images":{
+                    "one":"img/11.png",
+                    "two":"img/12.png",
+                    "three":"img/13.png",
+                    "four":"img/14.png"
+                }
+            }
+        },
+        {
+            "title": "Браво-2",
+            "category": "Стулец",
+            "price": 300,
+            "img":"/img/51.png",
+            "details": {
+                "type":"Спальный",
+                "create":"Plus",
+                "country":"USA",
+                "material":"throw",
+                "length":"150",
+                "width":"120",
+                "images":{
+                    "one":"img/51.png",
+                    "two":"img/52.png",
+                    "three":"img/53.png",
+                    "four":"img/54.png"
+                }
+            }
+        },
+        {
+            "title": "Альфа",
+            "category": "кресло",
+            "price": 900,
+            "img":"/img/61.png",
+            "details": {
+                "type":"Спальный",
+                "create":"Plus",
+                "country":"USA",
+                "material":"throw",
+                "length":"150",
+                "width":"120",
+                "images":{
+                    "one":"img/61.png",
+                    "two":"img/62.png",
+                    "three":"img/63.png",
+                    "four":"img/64.png"
+                }
+            }
+        },
+        {
+            "title": "Омега",
+            "category": "Кресло",
+            "price": 2070,
+            "img":"/img/71.png",
+            "details": {
+                "type":"Спальный",
+                "create":"Plus",
+                "country":"Россия",
+                "material":"throw",
+                "length":"150",
+                "width":"120",
+                "images":{
+                    "one":"img/71.png",
+                    "two":"img/72.png",
+                    "three":"img/73.png",
+                    "four":"img/74.png"
+                }
+            }
+        },
+        {
+            "title": "Апельсин",
+            "category": "Кресло",
+            "price": 3200,
+            "img":"/img/81.png",
+            "details": {
+                "type":"Спальный",
+                "create":"Plus",
+                "country":"Украина",
+                "material":"throw",
+                "length":"150",
+                "width":"120",
+                "images":{
+                    "one":"img/81.png",
+                    "two":"img/82.png",
+                    "three":"img/83.png",
+                    "four":"img/84.png"
+                }
+            }
+        },
+        {
+            "title": "Кентавр",
+            "category": "Стол",
+            "price": 700,
+            "img":"/img/91.png",
+            "details": {
+                "type":"Спальный",
+                "create":"Plus",
+                "country":"USA",
+                "material":"throw",
+                "length":"150",
+                "width":"120",
+                "images":{
+                    "one":"img/91.png",
+                    "two":"img/92.png",
+                    "three":"img/93.png",
+                    "four":"img/94.png"
+                }
+            }
+        }
+    ]
+ }
