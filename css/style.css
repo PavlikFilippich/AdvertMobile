@@ -1,6 +1,6 @@
 body{
     background: linear-gradient(to right, #dfcbb0, #daa35b);
-    min-width: 480px;
+
 }
 .login-form{
     display: flex;
@@ -62,11 +62,27 @@ h1{
     }
     
 }
-@media all and (max-width: 575.98px){
+@media all and (max-width: 575.98px) and (min-width: 480px){
     .login-form{
-        padding:5rem 5rem; 
+        padding:4rem 4rem; 
         font-size:  2rem;
         
+    }
+    h1{
+       font-size:  2.5rem;
+    }
+    .login-form form input#login{
+        font-size: 1.5rem;
+    }
+}
+@media all and (max-width: 479.98px){
+
+    .login-form{
+        padding: 4rem 2rem; 
+        font-size:  2rem;
+        margin: 0 auto;
+        width:14rem ;
+
     }
     h1{
        font-size:  2.5rem;
